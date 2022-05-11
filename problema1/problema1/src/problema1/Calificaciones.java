@@ -49,7 +49,6 @@ public class Calificaciones {
         mat3 = c;
     }
 
-
     public void calcularPromedio() {
         promedio = (mat1 + mat2 + mat3) / 3;
     }
